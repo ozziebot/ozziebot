@@ -3,7 +3,8 @@
 ### Work Experiences
 ### About me
 ### RESUME
-### Contaact Info
+### Contact Info
+  Email: oherna25@depaul.edu
 ### Technologies
 ### Skills
 ### Achievements 
