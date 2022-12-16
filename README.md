@@ -1,4 +1,13 @@
 ### Hi there 👋
+### jwdjoid ![image](https://user-images.githubusercontent.com/92398689/208182421-4e90a8d4-9b94-49c1-8821-0005478936ad.png)
+### Work Experiences
+### About me
+### RESUME
+### Contaact Info
+### Technologies
+### Skills
+### Achievements 
+
 
 <!--
 **ozziebot/ozziebot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
