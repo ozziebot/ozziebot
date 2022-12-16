@@ -4,7 +4,8 @@
 ### About me
 ### RESUME
 ### Contact Info
-  Email: oherna25@depaul.edu
+  📧: oherna25@depaul.edu
+  
 ### Technologies
 ### Skills
 ### Achievements 
