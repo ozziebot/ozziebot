@@ -71,7 +71,7 @@
     and search for more opportunities.
   </p>
   <h1>Resume</h1>
-  <a href="/Resume_OzielH.pdf">Oziel's Resume</a>
+  <a href="/Oziel_Hernandez_Resume Updated Jan2023.pdf">Oziel's Resume</a>
   <h1>Contact Info</h1>
   <p>
        Email: oherna00@outlook.com
