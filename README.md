@@ -74,7 +74,7 @@
   <a href="/Resume_OzielH.pdf">Oziel's Resume</a>
   <h1>Contact Info</h1>
   <p>
-       Email: oherna25@depaul.edu
+       Email: oherna00@outlook.com
        <br>
        Phone: (773)-331-1813
        <br>
